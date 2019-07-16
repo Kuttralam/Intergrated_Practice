@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">periodicalsample</string>
+    <string-array name="color">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Pink</item>
+    </string-array>
+
+</resources>
