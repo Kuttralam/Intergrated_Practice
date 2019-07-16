@@ -50,7 +50,7 @@
         android:layout_marginBottom="221dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="URL"
+        android:hint="URL"
         tools:layout_editor_absoluteX="68dp"
         tools:layout_editor_absoluteY="261dp" />
 
